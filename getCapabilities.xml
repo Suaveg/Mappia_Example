@@ -137,7 +137,7 @@
 				<Title>wg</Title>
 				<Abstract>GH:wg ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸tif˸˸˸//github.com/Suaveg/Mappia_Example/releases/download/Map_Download/wg.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="22.36214661012104" miny="50.17565687809935" maxx="22.419395253101417" maxy="50.20555871441527"></LatLonBoundingBox>
